@@ -7,9 +7,5 @@ if tentativa == numero_computador:
     print('caramba voce acertou!')
 else:
     print('tenta a sorte na proxima, o numero era {}'.format(numero_computador))
-    git init
-    git add .
-    git commit -m "primeiro commit"
-    git remote add origin https://github.com/perfggcontato-commits/fundamentos-python-projeto1-.git
-    git push -u origin master
+    
 
